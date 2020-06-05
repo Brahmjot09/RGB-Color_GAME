@@ -1,0 +1,109 @@
+.squares
+{
+	/*background-color:rgb(233, 34, 150);	*/
+	width: 30%;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15%;
+	transition: background-color .6s;
+	-webkit-transition: background-color .6s;
+	-moz-transition: background-color .6s;
+}
+body
+{
+	font-family: 'Felix Titling','Avenir';
+	background-color: rgba(13, 36, 104, 0.93);
+	margin: 0;
+}
+
+#strip
+{
+	text-align: center;
+	height: 30px;
+	margin: 0 auto;
+	background: white;
+
+	
+
+}
+
+#ta
+{
+	color: rgb(247, 10, 10);
+	display: inline-block;
+	width: 20%;
+	font-family: 'Dubai';
+	font-size: 20px;
+	font-weight: 700px
+
+	/*transition: all 3s;*/
+}
+#sqr
+{
+	margin: 20px auto;
+	width: 600px;
+
+}
+h1
+{ 
+	text-align: center;
+	font-weight: normal;
+	color: white; 
+	background-color:'#d57c50';
+	margin: 0;
+	line-height: 1.3;
+	padding: 3px 0;
+	transition: all 1s;
+
+}
+/*h2{
+	text-align: center;
+	color: rgba(20, 200, 253);
+	background-color: steelblue 
+}*/
+
+
+
+.selected
+{
+	color: rgb(20, 20, 40);
+	background-color: steelblue;
+
+}
+#a1
+{
+	font-size:1em 
+}
+#a2
+{
+	font-size: 45px
+}
+#slctcolor
+{
+	font-size: 1.5em;
+}
+button
+{
+	border: none;
+	background: none;
+	font-family:  'Calibri';
+	font-size: 21px;
+	font-weight: 550;
+	text-transform: uppercase;
+	height: 100%;
+	letter-spacing: 1px;
+	color: rgba(10, 160, 190 );
+	transition: all .6s;
+	-webkit-transition: all .6s;
+	-moz-transition: all .6s;
+	outline: none;
+}
+
+
+
+button:hover
+{
+	color: rgb(20, 20, 40);
+	background-color: steelblue;
+}
