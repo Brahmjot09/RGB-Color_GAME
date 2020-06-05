@@ -5,8 +5,7 @@
 	# Displays some random colors to guess from 
 	 and the random color to be guessed. 
 
-	# Two Modes available: Easy
-						   Hard
+	# Two Modes available: Easy & Hard
 
 
 	# One of my very first projects in learning Web Dev. 
