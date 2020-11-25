@@ -1,15 +1,28 @@
-# --RGB Color Guessing Game--
+# --RGB _Color_ Guessing Game-- :art:
+<hr />
 
-# A Little Project using HTML, CSS and Javascript.
+### _A Little Project using HTML, CSS and JavaScript_.
+![RGB Game](./Media/1.png)
 
-	# Displays some random colors to guess from 
-	 and the random color to be guessed. 
+	Displays some random colors to guess from,
+		   and a < RGB color code > .
 
-	# Two Modes available: Easy & Hard
+![Easy Mode](./Media/2.png)
+
+Two Modes available: Easy & Hard
+<br />
+
+	You can Choose New Colors by clicking on `NEW COLORS!`
+![Different Colors](./Media/5.png)
+<br />
+###### All colors turn same when you correctly guessed the given Color
+<br />
+
+![Color found](./Media/6.png)
+<hr />
+
+>One of my very first projects  in learning Web Dev.
+Do give your comments/suggestions. :memo:
 
 
-	# One of my very first projects in learning Web Dev. 
-	# Do give your comments/suggestions.
-	# Hope you like it...
-
-	  # Thank You
+**Thank You**

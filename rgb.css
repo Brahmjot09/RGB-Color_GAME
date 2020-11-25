@@ -4,11 +4,12 @@
 	width: 30%;
 	padding-bottom: 30%;
 	float: left;
-	margin: 1.66%;
+	margin: 35px 1.66%;
 	border-radius: 15%;
 	transition: background-color .6s;
 	-webkit-transition: background-color .6s;
 	-moz-transition: background-color .6s;
+	box-shadow: 0px 1px 2px 1px white;
 }
 body
 {
@@ -20,11 +21,11 @@ body
 #strip
 {
 	text-align: center;
-	height: 30px;
+	height: 60px;
 	margin: 0 auto;
 	background: white;
 
-	
+
 
 }
 
@@ -41,26 +42,27 @@ body
 }
 #sqr
 {
-	margin: 20px auto;
-	width: 600px;
+	margin: 100px auto;
+	width: 850px;
 
 }
 h1
-{ 
+{
 	text-align: center;
-	font-weight: normal;
-	color: white; 
+	font-weight: bold;
+	color: white;
 	background-color:'#d57c50';
 	margin: 0;
-	line-height: 1.3;
-	padding: 3px 0;
+	line-height: 1.5;
+	padding: 8px 0;
 	transition: all 1s;
+	font-size: 35px;
 
 }
 /*h2{
 	text-align: center;
 	color: rgba(20, 200, 253);
-	background-color: steelblue 
+	background-color: steelblue
 }*/
 
 
@@ -73,7 +75,7 @@ h1
 }
 #a1
 {
-	font-size:1em 
+	font-size:1em
 }
 #a2
 {
@@ -88,7 +90,7 @@ button
 	border: none;
 	background: none;
 	font-family:  'Calibri';
-	font-size: 21px;
+	font-size: 38px;
 	font-weight: 550;
 	text-transform: uppercase;
 	height: 100%;
